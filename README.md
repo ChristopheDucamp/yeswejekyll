@@ -1,17 +1,21 @@
 # Yes We Jekyll
 
-Jekyll is a static website generator developed in [Ruby](http://www.ruby-lang.org/en/). It has gained popularity especially since [GitHub Pages](https://pages.github.com) provided native support for it. This does not mean you cannot use it without it, though. The main advantage of this is the ease of hosting.
 
-As you probably well know even Mr. Obama used [Jekyll](https://github.com/mojombo/jekyll) during [his campaign](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/). In this guide I will show you how to develop your site or blog using Jekyll. Chant with me "Yes we Jekyll!". There we go.
+Un projet de @bebraw forké sur le répertoire https://github.com/bebraw/yeswejekyll pour étude
 
-> It is a good idea to go and [install Jekyll](https://github.com/mojombo/jekyll/wiki/install) now unless you already have and get back right after that. Or you just might want to read on. Whatever suits your mojo.
-
-The guide has actually been structured as a Jekyll site so feel free to explore the source. If you have any ideas on how to improve it, let me know at the [issue tracker](https://github.com/bebraw/yeswejekyll/issues). Also [pull requests](https://github.com/bebraw/yeswejekyll/pulls) are appreciated.
+Jekyll est un générateur de site web statique développé en [Ruby](http://www.ruby-lang.org/fr/). 
+Devenu populaire tout spécialement depuis que [GitHub Pages](https://pages.github.com) le supporte nativement. Ceci ne veut pas dire que vous ne pouvez pas l'utiliser sans GithUb. Le principal avantage est sa facilité d'hébergement.
 
 
-## Licensing
+Comme vous le savez probablement, même Obama a utilisé [Jekyll](https://github.com/jekyll/jekyll) durant [sa campagne](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/). Dans ce guide, je vous présenterai comment développer votre site ou blog en utilisant Jekyll. Chantez avec moi "Yes we Jekyll!". There we go.
 
-The source code of the project is available under [MIT license](http://opensource.org/licenses/MIT). In effect this means you will have to retain attribution. Given that it is entirely possible to use source in a commercial and/or closed setting.
+> C'est une bonne idée de démarrer et d'[installer Jekyll](http://jekyllrb.com/docs/installation/) maintenant à moins que ce ne soit déjà fait. Ou vous pourriez vous contener de lire. À vous de voir selon votre mojo.
 
-The content of the site (ie. text) is available under [Creative Commons Attribution-NonCommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/) or CC BY-NC 3.0 if you want to keep it nice and short. This means I will reserve rights to use the material commercially. You may use it on a non-commercial setting if you provide an attribution. Contact me for commercial usage.
+Le guide a été structuré comme un site Jekyll aussi sentez-vous libre d'explorer la source. Si vous avez quelque diée sur l'amélioration, faites-le moi savoir sur le [issue tracker](https://github.com/bebraw/yeswejekyll/issues). Les [pull requests](https://github.com/bebraw/yeswejekyll/pulls) sont aussi appréciées.
+
+## Licence
+
+Le code source du projet est disponible sous [Licence MIT](http://opensource.org/licenses/MIT). Ce qui veut dire que vous devrez mettre l'attribution. Cette licence vous permet d'utiliser la source dans un paramétrage commercial et/ou fermé.
+
+Le contenu du site (c'est à dire le texte) est disponible sous une licence [Creative Commons Attribution-NonCommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/) ou CC BY-NC 3.0 pour le dire court et plus simplement. Ceci signifie que je réserve les droits d'utiliser le contenu commercialement. Vous pouvez l'utiliser pour un paramétrage non-commercial si vous fournissez une attribution. Contactez-moi pour un usage commercial.
 
