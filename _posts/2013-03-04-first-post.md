@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "First Post"
-description: "Just a demo post"
+title: "Premier Post"
+description: "Juste un post de démo"
 category: ""
-tags: ["first"]
+tags: ["premier"]
 ---
-First post!
+Premier post !

@@ -1,7 +1,9 @@
-Jekyll is a static website generator developed in [Ruby](http://www.ruby-lang.org/en/). It has gained popularity especially since [GitHub Pages](https://pages.github.com) provided native support for it. This does not mean you cannot use it without it, though. The main advantage of this is the ease of hosting.
+Jekyll est un générateur de site web statique développé en [Ruby](http://www.ruby-lang.org/fr/). 
+Devenu populaire tout spécialement depuis que [GitHub Pages](https://pages.github.com) le supporte nativement. Ceci ne veut pas dire que vous ne pouvez pas l'utiliser sans GithUb. Le principal avantage est sa facilité d'hébergement.
 
-As you probably well know even Mr. Obama used [Jekyll](https://github.com/mojombo/jekyll) during [his campaign](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/). In this guide I will show you how to develop your site or blog using Jekyll. Chant with me "Yes we Jekyll!". There we go.
+Comme vous le savez probablement, même Obama a utilisé [Jekyll](https://github.com/jekyll/jekyll) durant [sa campagne](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/). Dans ce guide, je vous présenterai comment développer votre site ou blog en utilisant Jekyll. Chantez avec moi "Yes we Jekyll!". Allons-y.
 
-> It is a good idea to go and [install Jekyll](https://github.com/mojombo/jekyll/wiki/install) now unless you already have and get back right after that. Or you just might want to read on. Whatever suits your mojo.
+> C'est une bonne idée de démarrer et d'[installer Jekyll](http://jekyllrb.com/docs/installation/) maintenant à moins que ce ne soit déjà fait. Ou vous pourriez vous contener de lire. À vous de voir selon votre mojo.
 
-The guide has actually been structured as a Jekyll site so feel free to explore the source. If you have any ideas on how to improve it, let me know at the [issue tracker](https://github.com/bebraw/yeswejekyll/issues). Also [pull requests](https://github.com/bebraw/yeswejekyll/pulls) are appreciated.
+Le guide a été structuré comme un site Jekyll aussi sentez-vous libre d'explorer la source. Si vous avez quelque idée sur l'amélioration, faites-le moi savoir sur le [issue tracker](https://github.com/bebraw/yeswejekyll/issues). Les [pull requests](https://github.com/bebraw/yeswejekyll/pulls) sont aussi appréciées.
+
