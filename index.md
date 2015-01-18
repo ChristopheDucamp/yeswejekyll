@@ -176,7 +176,7 @@ Parfois, vous pourriez avoir été un blogueur actif et disposer pour une raison
 
 Pour que ce soit plus facile pour vos lecteurs de consommer votre blog, vous pourriez fournir un fil de syndication. J'ai installé un [exemple d'Atom](https://github.com/bebraw/geekcollision-site/blob/master/atom.xml).
 
-Et si vous voulez simplement bloguer et ne pas vous soucier des détails techniques, jetez un oeil à [Octopress](http://octopress.org/), un framework de blogging construit sur Jekyll. Il prend soint du boilerplate exigé. Après ça vous n'avez plus qu'à vous soucier du contenu (la partie facile).
+Et si vous voulez simplement bloguer et ne pas vous soucier des détails techniques, jetez un oeil à [Octopress](http://octopress.org/), un framework de blogging construit sur Jekyll. Il prend soin du boilerplate exigé. Après ça vous n'avez plus qu'à vous soucier du contenu (la partie facile).
 
 ### \_site
 
@@ -301,7 +301,7 @@ Vu que je suis un type Chrome, j'aime utiliser [l'extension Subtle Patterns de C
 
 Une autre chose qui peut faire la différence, c'est l'usage d'images de photothèques.  Si vous voulez faire l'idiot, vous pourriez essayer quelque chose comme [lorempixel](http://lorempixel.com/) ou [placekitten](http://placekitten.com/). Cela vous donne un peu de syntaxe élégante que vous pouvez utiliser pour générer des images sur votre site. Particulièrement utile en phase de prototypage.
 
-Une fois que les choses deviennent plus sérieuses, vous voudrez probablement migrer sur autre chose et choisir une image basée sur le contexte. Pour ça, j'aime compfight](http://compfight.com/). Il utilise Flickr comme backend mais fournit une interface plus saine  que Flickr.
+Une fois que les choses deviennent plus sérieuses, vous voudrez probablement migrer sur autre chose et choisir une image basée sur le contexte. Pour ça, j'aime [compfight](http://compfight.com/). Il utilise Flickr comme backend mais fournit une interface plus saine  que Flickr.
 
 Tout ce que vous devez faire, c'est vous assurer que l'image est en `Creative Commons` et l'attribuer proprement à son auteur. Parfois la licence pourrait être restreinte sur l'usage commercial, aussi conservez-ça en tête au moment de chercher des photos. Il y a des fois où vous trouverez de belles photos qui ont été licenciées ainsi. Il peut être très possible de négocier un montant de licence avec l'auteur. Parfois il vous donnera une permission pour de la visibilité.
 
